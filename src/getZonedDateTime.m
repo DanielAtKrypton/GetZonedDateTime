@@ -1,5 +1,5 @@
 function zdt = getZonedDateTime(varargin)
-%GETUTCEPOCHSECONDS Summary of this function goes here
+%GETZONEDDATETIME Summary of this function goes here
 %   Detailed explanation goes here
 
 narginchk(0,1);
